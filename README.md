@@ -1,6 +1,6 @@
 # Capstone: Smart Reminder A/B Experiment — Injaz
 
-**Experimentation & Causal Inference — github.com/SDAIAAcademy
+**Experimentation & Causal Inference — [SDAIA Academy](https://github.com/SDAIAAcademy)**
 
 ## Overview
 
